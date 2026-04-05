@@ -62,11 +62,6 @@ Users can filter dashboard based on:
 
 Sales Dataset → Data Cleaning (Power Query) → KPI Calculation (DAX) → Data Modeling → Interactive Dashboard → Business Insights
 
-## 📸 Dashboard Preview
-
-Main Dashboard View
-![](DashboardPreview.png)
-
 ## 🔍 Key Insights Generated
 - Identified top-selling product categories contributing maximum revenue
 - Tier 1 outlets showed highest overall sales performance
